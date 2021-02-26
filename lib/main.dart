@@ -36,8 +36,8 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.green,
-        title: Text('Firebase Auyh'),
+        backgroundColor: Colors.black,
+        title: Text('Firebase abcd'),
       ),
       body: Center(
         child: Column(
