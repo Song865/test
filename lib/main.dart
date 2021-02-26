@@ -37,7 +37,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.green,
-        title: Text('Firebase Auth'),
+        title: Text('Firebase Auyh'),
       ),
       body: Center(
         child: Column(
